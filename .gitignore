@@ -1,0 +1,10 @@
+.git/
+.vs/
+obj/
+Packages/
+Temp/
+Library/
+
+*.csproj
+*.sln
+*.pdb
